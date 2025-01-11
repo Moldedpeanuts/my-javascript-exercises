@@ -1,4 +1,4 @@
-# Sort an array of strings based on last names 
+# Sort an array of strings in alphabetical order based on last names 
 We need to sort a given array of strings, where each string represents a name in the format "LastName, FirstName".
 
 ## Pseudocode
