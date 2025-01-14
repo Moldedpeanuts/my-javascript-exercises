@@ -1,0 +1,2 @@
+# function to return positive sum from array
+Write a function to return the sum of positive integers from an array. The function should not include the sum of negative integers. If the array is empty it should return 0.
