@@ -12,4 +12,7 @@ const books = [
   }
 ]
 
-Your job is to write a function that takes the array and returns an array of titles.
+Your job is to write a function that takes the array and returns an array of titles. 
+
+## Solution
+Involves simply implementing map array method, since we want to output an array with the same number of objects with only just their titles.
